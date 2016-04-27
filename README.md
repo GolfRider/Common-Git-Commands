@@ -12,5 +12,9 @@
 9. git log <file_name>
 10. git status
 11. git checkout <branch_name>
+12. git remote -v
+13. git remote add master <destination>
+14. git remote add origin <destination>
+15. git clone <repo_url>   
 
 
