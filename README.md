@@ -11,5 +11,7 @@
 7. git commit -m "commit message"
 8. git push origin <branch_name>  
 9. git log <file_name>
+10. git status
+11. git checkout <branch_name>
 
 
