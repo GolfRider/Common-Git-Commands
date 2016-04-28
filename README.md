@@ -16,5 +16,7 @@
 13. git remote add master [destination]
 14. git remote add origin [destination]
 15. git clone [repo_url]
+16. git stash
+17. git stash apply/pop
 
 
