@@ -22,5 +22,8 @@
 19. git branch
 20. git log <file_name_path>
 21. git diff 
+22. git clone <url>  //clone the repo
+23. git branch -r // list all branches <master+origin>
+24. git checkout <branch>
 
 
