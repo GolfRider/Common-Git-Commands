@@ -18,12 +18,12 @@
 15. git clone [repo_url]
 16. git stash
 17. git stash apply/pop
-18. git checkout <another_branch_name> <file_name_path>  // Merge file from another branch into current branch 
+18. git checkout [another_branch_name] [file_name_path]  // Merge file from another branch into current branch 
 19. git branch
-20. git log <file_name_path>
+20. git log [file_name_path]
 21. git diff 
-22. git clone <url>  //clone the repo
+22. git clone [url]  //clone the repo
 23. git branch -r // list all branches <master+origin>
-24. git checkout <branch>
+24. git checkout [branch]
 
 
