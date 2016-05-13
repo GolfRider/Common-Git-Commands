@@ -25,5 +25,6 @@
 22. git clone [url]  //clone the repo
 23. git branch -r // list all branches <master+origin>
 24. git checkout [branch]
+25. git checkout -b [new_branch_name] [from_branch_name]  // creates new branch off an existing branch
 
 
